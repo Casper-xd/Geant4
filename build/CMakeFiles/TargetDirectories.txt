@@ -1,0 +1,3 @@
+/home/monakov/trash/project/build/CMakeFiles/Project.dir
+/home/monakov/trash/project/build/CMakeFiles/edit_cache.dir
+/home/monakov/trash/project/build/CMakeFiles/rebuild_cache.dir
